@@ -1,0 +1,15 @@
+{
+  "name": "hubot-google-calendar-team",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "googleapis": "~2.0.5",
+    "google-auth-library": "~0.9.6"
+  }
+}
